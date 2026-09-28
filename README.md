@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="public/workday-calc-logo.png" alt="Workday Calc logo" width="180" />
+</p>
+
 # Workday Calc
 
 A small utility for calculating working days and simple deadlines.

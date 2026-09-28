@@ -19,6 +19,11 @@ export default function Home() {
           </a>
         </div>
         <aside className="statusPanel" aria-label="Project status">
+          <img
+            className="heroLogo"
+            src="/workday-calc-logo.png"
+            alt="Workday Calc logo"
+          />
           <span>Status</span>
           <strong>Prototype</strong>
           <p>Weekdays are counted Monday through Friday.</p>
